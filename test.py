@@ -24,4 +24,4 @@ for i in range(n, 0, -1):
         print('*', end=' ')
     print()
 
-print("That's it for today")
+print("That's it for today***")
