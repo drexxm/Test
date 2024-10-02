@@ -24,19 +24,3 @@ for i in range(n, 0, -1):
         print('*', end=' ')
     print()
 
-def print_smiley():
-    smiley = [
-        "      *****      ",
-        "   **       **   ",
-        "  *  O   O   *  ",
-        " *     \_/     * ",
-        " *               * ",
-        "  *  \_____/   *  ",
-        "   **       **   ",
-        "      *****      "
-    ]
-    
-    for line in smiley:
-        print(line)
-
-print_smiley()
